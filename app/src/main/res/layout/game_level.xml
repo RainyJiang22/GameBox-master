@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <TextView
+        android:id="@+id/select_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_level"
+        android:gravity="center"
+        android:textSize="24sp"/>
+
+    <!--使用网格布局也可以达到这种效果-->
+    <GridView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="3"
+        android:id="@+id/game_level"
+        android:verticalSpacing="8dp"
+        android:horizontalSpacing="8dp"
+        android:layout_below="@id/select_game"></GridView>
+</RelativeLayout>
