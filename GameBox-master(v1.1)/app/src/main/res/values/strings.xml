@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">推箱子</string>
+    <string name="kaishi_youxi">开始游戏</string>
+    <string name="youxi_jianjie">游戏简介</string>
+    <string name="tuichu_youxi">退出游戏</string>
+    <string name="tui_xiangzi">推箱子游戏</string>
+    <string name="game_intro_title">推箱子游戏简介</string>
+    <string name="xuan_guan_qia">选择关卡</string>
+    <string name="game_over_label">你过关了！</string>
+    <string name="no_more_levels">没有更多关卡了。</string>
+    <string name="back_to_main_screen">返回主屏幕</string>
+    <string name="xgq_exit">退出游戏</string>
+    <string name="prv_level_label">上一关</string>
+    <string name="next_level_label">下一关</string>
+    <string name="reset_label">重新玩</string>
+    <string name="undo_prv_step">悔一步</string>
+    <string name="change_game_level">换关卡</string>
+    <string name="already_first_level">已经到达第1关。</string>
+    <string name="label_prev_level">上一关</string>
+    <string name="label_next_level">下一关</string>
+    <string name="label_reset_game">重新玩</string>
+    <string name="label_exit_app">退出</string>
+    <string name="select_level">选择关卡</string>
+    <string name="what_you_select">你选中的关卡是:</string>
+
+</resources>
