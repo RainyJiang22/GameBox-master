@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp">
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/kaishi_youxi"
+            android:id="@+id/game_start"
+            android:layout_marginTop="45dp"
+            android:background="@drawable/login_buttton_background"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_margin="20dp"
+            android:textColor="@color/white"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/youxi_jianjie"
+            android:id="@+id/game_introduction"
+            android:background="@drawable/login_buttton_background"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_margin="20dp"
+            android:textColor="@color/white"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tuichu_youxi"
+            android:background="@drawable/login_buttton_background"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_margin="20dp"
+            android:textColor="@color/white"
+            android:id="@+id/game_exit"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+    </LinearLayout>
+
+</LinearLayout>
