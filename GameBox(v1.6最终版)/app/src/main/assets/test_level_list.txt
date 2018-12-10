@@ -1,0 +1,46 @@
+//第1关
+//游戏区是7x7规格的
+//测什么？
+// 1. 能否添加空白行和空白列？
+// 2. 程序基本功能
+[1]
+7 7
+  WWWW 
+  WF W 
+  WB W 
+  WM W 
+  WWWW 
+       
+       
+
+//第2关
+//游戏区是12X12，边缘是空白格子
+//测什么：
+//  1. 游戏区比默认大小（11x11）大会出问题吗？
+[2]
+12 12
+            
+            
+  WWWWWWW   
+  W FFB W   
+  W W B W   
+  W W W W   
+  W BMW W   
+  WFB   W   
+  WFWWWWW   
+  WWW       
+            
+            
+//第3关
+//测什么：
+// 1. 一开局，人站在红旗上
+[3]
+8 9
+WWWWWWWWW
+W   W   W
+W B   B W
+WW W W WW
+W  W W  W
+W BFRF  W
+WWW   WWW
+  WWWWW  

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/itm_xgq_back"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="@string/back_to_main_screen"/>
+    <item android:id="@+id/itm_xgq_exit"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="@string/xgq_exit"/>
+
+</menu>

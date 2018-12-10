@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/itm_prv_level"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="@string/prv_level_label"/>
+    <item android:id="@+id/itm_next_level"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="@string/next_level_label"/>
+    <item android:id="@+id/itm_reset_game"
+        android:orderInCategory="103"
+        app:showAsAction="never"
+        android:title="@string/reset_label"/>
+    <item android:id="@+id/itm_undo_label"
+        android:icon="@mipmap/undo"
+        android:orderInCategory="104"
+        app:showAsAction="ifRoom"
+        android:title="@string/undo_prv_step"/>
+    <item android:id="@+id/itm_change_level"
+        android:orderInCategory="105"
+        app:showAsAction="never"
+        android:title="@string/change_game_level"/>
+    <item android:id="@+id/itm_game_exit"
+        android:orderInCategory="106"
+        app:showAsAction="never"
+        android:title="@string/tuichu_youxi" />
+</menu>

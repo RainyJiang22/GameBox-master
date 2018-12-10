@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/itm_start"
+        android:orderInCategory="101"
+        app:showAsAction="never"
+        android:title="@string/kaishi_youxi"/>
+    <item android:id="@+id/itm_intro"
+        android:orderInCategory="102"
+        app:showAsAction="never"
+        android:title="@string/youxi_jianjie"/>
+    <item android:id="@+id/itm_exit"
+        android:orderInCategory="103"
+        app:showAsAction="never"
+        android:title="@string/tuichu_youxi"/>
+
+</menu>

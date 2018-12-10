@@ -1,0 +1,138 @@
+//第1关
+//游戏区是12X12，边缘是空白格子
+[1]
+12 12
+            
+            
+  WWWWWWW   
+  W FFB W   
+  W W B W   
+  W W W W   
+  W BMW W   
+  WFB   W   
+  WFWWWWW   
+  WWW       
+            
+            
+
+[2]
+6 9
+  WWWW   
+WWW  WWWW
+W     B W
+W W  WB W
+W F FWM W
+WWWWWWWWW
+
+[3]
+8 12
+   WWWWW    
+WWWW   W    
+WFFWBB W    
+W FFB  WWWWW
+W MW W W   W
+W  B     B W
+W  WWWWWWWFW
+WWWW     WWW
+
+[4]
+11 11
+   WWW     
+  WW W WWWW
+ WW  WWW  W
+WW B      W
+W   MB W  W
+WWW BWWW  W
+  W  WFF  W
+ WW WWFW WW
+ W      WW 
+ W     WW  
+ WWWWWWW   
+ 
+[5]
+11 11
+   WWWWWWWW
+   W      W
+WWWW WWWW W
+W B B FFW W
+W W  FW W W
+W W WWW W W
+W WFW B   W
+W WFBMB  WW
+W WBWWW  W 
+W  F     W 
+WWWWWWWWWW 
+
+[6]
+7 10
+WWWWWWWWWW
+W        W
+W  B B B W
+WWMWWWWW W
+W   F F FW
+W        W
+WWWWWWWWWW
+
+[7]
+8 9
+WWWWWWWWW
+W   W   W
+W B   B W
+WW W W WW
+W  W W  W
+W BFRF  W
+WWW   WWW
+  WWWWW  
+
+[8]
+8 12
+WWWWWWWWWWWW
+W          W
+W     BBB  W
+WW W  BMB  W
+WFFFWWBBBWWW
+WF F       W
+WFFF  W    W
+WWWWWWWWWWWW
+
+[9]
+8 11
+WWWWWWWWWWW
+W  FW  W  W
+WFFFF BWB W
+W  FW     W
+WWWWW  W  W
+W  B  BBB W
+W    M W  W
+WWWWWWWWWWW
+
+[10]
+7 9
+WWWWWWWWW
+W   M   W
+W  BFB  W
+WWFWBWFWW
+W  BF   W
+W   W   W
+WWWWWWWWW
+
+[11]
+7 7
+ WWWWWW
+WW FFFW
+W B B W
+W BMB W
+W B B W
+WFFF WW
+WWWWWW 
+
+[12]
+8 8
+WWWWWWWW
+W      W
+W BBB  W
+W FFFWWW
+WWWFFF W
+W MBBB W
+W      W
+WWWWWWWW
