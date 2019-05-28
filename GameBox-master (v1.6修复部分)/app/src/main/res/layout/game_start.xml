@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<TextView-->
+        <!--android:id="@+id/tv_levels"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="你选择的关卡是："-->
+        <!--android:layout_margin="10dp"-->
+        <!--android:textSize="16sp"-->
+        <!--android:textStyle="bold"/>-->
+    <com.example.gamebox_master.View.GameView
+        android:id="@+id/game_board"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"/>
+
+
+</LinearLayout>
